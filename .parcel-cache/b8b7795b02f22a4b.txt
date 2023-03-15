@@ -14,7 +14,7 @@
 81C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\source-map\dist133232909195636838 1
 81C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\chalk\readme.md133232909159390419 0
 96C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\optimizer-htmlnano\src133232909156139923 1
-57C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist133232922177360582 1
+57C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist133233826446735517 1
 64C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\.posthtmlrc133106784810000000 0
 87C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\dotenv-expand\LICENSE133232909149933256 0
 95C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\source-map-support\LICENSE.md133232909161068386 0
@@ -161,7 +161,7 @@
 87C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\css-tree\lib\index.js133232909225174430 0
 100C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\svgo\plugins\convertShapeToPath.js133232909191281156 0
 88C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\simplelightbox\LICENSE133232910047712823 0
-71C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\src\js\02-video.js133232096639519053 0
+71C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\src\js\02-video.js133233825416259835 0
 86C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\micromatch\README.md133232909151495880 0
 105C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\src\index.js133232909170598509 0
 103C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\cosmiconfig\dist\getPropertyByPath.js133232909163349807 0
@@ -1566,7 +1566,7 @@
 85C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\base-x\package.json133232909144198469 0
 100C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\posthtml-expressions\lib\locals.js133232909155677596 0
 88C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\plugin\LICENSE133232909138743128 0
-71C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.html133232922176549046 0
+71C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.html133233826446041377 0
 101C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\postcss-value-parser\lib\index.d.ts133232909171080060 0
 95C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\chrome-trace-event\CHANGES.md133232909150714566 0
 91C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\csso\lib\replace\color.js133232909185357812 0
@@ -2127,7 +2127,6 @@
 101C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\caniuse-lite\data\features\audio.js133232909211265815 0
 92C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\native-promise-only\npo.js133232911358885336 0
 114C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133232909151808397 0
-78C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.8b24f8d3.js133232922176705325 0
 85C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\fast-glob\README.md133232909203083289 0
 98C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\native-promise-only\package.json133232911358647717 0
 79C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\htmlnano\docs133232909229036127 1
@@ -2245,7 +2244,6 @@
 87C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\msgpackr\iterators.js133232909167759175 0
 88C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\msgpackr\node-index.js133232909170388415 0
 93C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\entities\lib\encode-trie.js133232909167087595 0
-82C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.8b24f8d3.js.map133232922177017850 0
 95C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\csso\lib\restructure\index.js133232909208339554 0
 130C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_check_private_static_field_descriptor.js133232909188391215 0
 84C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\msgpackr\pack.d.ts133232909190269340 0
@@ -4095,6 +4093,7 @@
 86C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\packager-css133232909151808397 1
 86C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\packager-raw133232909150870813 1
 80C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\plugin133232909150870813 1
+78C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.17fdf5da.js133233826446051381 0
 86C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\reporter-cli133232909181644950 1
 93C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\reporter-dev-server133232909192025784 1
 84C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-js133232909211475840 1
@@ -4253,6 +4252,7 @@
 116C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133232909198163422 0
 111C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\types.js.flow133232909144198469 0
 122C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-musl.node133232909238274211 0
+82C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.17fdf5da.js.map133233826446279704 0
 108C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\constants.js133232909174235301 0
 103C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\flow.js133232909178164728 0
 102C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\jsx.js133232909182582562 0
@@ -4321,6 +4321,7 @@
 122C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js133232909206691240 0
 119C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133232909208517381 0
 97C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\src133232909163349807 1
+78C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.67808547.js133233826446061397 0
 105C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\src\loaders133232909167237626 1
 120C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133232909151808397 0
 111C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133232909158153112 0
@@ -4880,8 +4881,7 @@
 80C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\01-gallery.65c246da.js133232922176861590 0
 84C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\01-gallery.65c246da.js.map133232922177213121 0
 73C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\01-gallery.html133232922176549046 0
-78C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.1884d9a2.js133232922176705325 0
-82C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.1884d9a2.js.map133232922177017850 0
+82C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\02-video.67808547.js.map133233826446279704 0
 85C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\03-feedback.728b757a.js.map133232922176861590 0
 81C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\03-feedback.ae101a00.js133232922176549046 0
 85C:\Users\Mexanik\Desktop\GoIT-HomeWork\goit-js-hw-08\dist\03-feedback.ae101a00.js.map133232922176861590 0

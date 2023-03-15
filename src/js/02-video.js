@@ -8,7 +8,7 @@ const player = new Player(iframe);
 player.on('timeupdate', throttle(function (data) {
     console.log(data)
     localStorage.setItem('videoplayer-current-time', JSON.stringify(data))
-}), 1000);
+}, 1000));
 
 goSeveSecond();
 
